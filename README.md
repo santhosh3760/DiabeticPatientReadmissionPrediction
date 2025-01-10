@@ -77,7 +77,7 @@ To understand the data better, distributions and relationships between features 
 
 All the visualizations created during the exploratory data analysis are available in the following folder:
 
-**DiabeticPatientReadmissionCharts**
+**(DiabeticPatientReadmissionCharts)**
 
 Feel free to explore these visualizations to gain deeper insights into the dataset.
 
